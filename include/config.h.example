@@ -1,3 +1,4 @@
+// Copy this file to include/config.h and fill in your credentials.
 #define ENV_WIFI_SSID "<ssid here>"
 #define ENV_WIFI_PASS "<password here>"
 #define ENV_BOT_TOKEN "<telegram bot token here>"
